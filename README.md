@@ -107,5 +107,3 @@ I'm passionate about Linux, AI/ML, and programming that solves everyday problems
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
