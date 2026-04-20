@@ -20,7 +20,7 @@ I'm passionate about Linux, AI/ML, and programming that solves everyday problems
   
 
 <br/>  
-
+I am also a freelance web developer building custom websites for clients using technologies like Next.js, and modern frontend frameworks. My customers are small businesses and individuals who need professional websites and web solutions.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
