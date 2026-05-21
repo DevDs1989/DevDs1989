@@ -1,23 +1,14 @@
 # <div align="center">Hello 👋 I'm Devesh. </div>  
   
 
-I'm passionate about Linux, AI/ML, and programming that solves everyday problems. I love exploring new technologies and learning how things work.  
-  
 
-- 🎓 I'm a Computer Science student exploring all things tech    
-  
-
-- 🧠 Currently learning C++ and deepening my programming fundamentals    
-  
-
-- 🌐 I enjoy building creative websites using the MERN stack    
-  
-
-- 🎨 I'm also a hobbyist graphic designer and video editor in my free time  
-  
-
-- 🧑‍💻 I use Neovim on Arch btw  
-  
+- 🐧 CS student specializing in AI/ML who spends more time configuring Neovim than writing actual code
+- 🌐 Full-stack dev — if it involves Next.js, Node.js, or a database that may or may not be the right choice, I'm your guy
+- 🔍 Open source contributor who does a tad bit more than fixing typos
+- 🧠 Forgot how to think myself so I started teaching machines how to think
+- 🧩 Builds browser extensions that intercept network requests on grocery sites because apparently that's a thing people need
+- ☕ Writes code by day, questions all my life choices by night (still while writing code)
+- 🎨 Occasional graphic designer and video editor when the code refuses to cooperate
 
 <br/>  
 I am also a freelance web developer building custom websites for clients using technologies like Next.js, and modern frontend frameworks. My customers are small businesses and individuals who need professional websites and web solutions.
